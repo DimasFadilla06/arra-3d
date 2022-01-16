@@ -12,6 +12,7 @@ int main()
     {{40,45},{50,55},{60,65}}};
 
  //Memanggil array
+    
  for(int i = 0; i<=1; i++){
   cout<<i+1<<".\n";
   for(int j = 0; j<=2; j++){
